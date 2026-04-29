@@ -1,2 +1,0 @@
-# windex
-game stuff
